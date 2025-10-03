@@ -72,7 +72,6 @@ $ git init
 ```
 $ git status
 ```
-out:
 ```
 On branch main
 Your branch is up to date with 'origin/main'.
@@ -91,7 +90,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 $ git add main.typ
 $ git commit -m "updates to presentation.."
 ```
-out:
 ```
 [main 8a628e9] update to presentation
  1 file changed, 41 insertions(+)
@@ -99,7 +97,6 @@ out:
 ```
 $ git push
 ```
-out
 ```
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
