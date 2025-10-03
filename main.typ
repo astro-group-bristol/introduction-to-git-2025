@@ -53,9 +53,8 @@ It quickly became the world's most popular version control system for software, 
 ]
 
 #slide(title: "Why should you use git?")[
-As a PGR, your work is complex and evolves over time. Git is designed to manage that complexity. Think of it as a lab notebook for your code, data, and manuscripts.
 
-- No More File Hell: Forget script_v1.py, script_v2.py, script_final.py.
+- No More File Hell: Forget script_v1.py, script_v2.py, script_final.py, script_final_final.py, script_really_the_final.py
 
 - Reproducibility: This is the big one for science. When you publish a paper, you can point to the exact commit (snapshot) of the code and analysis that produced your results.
 
