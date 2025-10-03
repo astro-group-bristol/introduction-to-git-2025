@@ -38,7 +38,7 @@
   info: [#link("https://github.com/astro-group-bristol/introduction-to-git-2025")],
 )
 #slide(title: "A Breif History")[
-A Brief History 📜
+  
 Git was created in 2005 by Linus Torvalds, the same person who created the Linux operating system kernel. He needed a tool to manage the massive and highly distributed development of the Linux kernel because the existing options weren't good enough.
 
 He designed Git to be:
